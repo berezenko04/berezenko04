@@ -5,4 +5,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berezenko04)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berezenko04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berezenko04)](https://github.com/anuraghazra/github-readme-stats)
