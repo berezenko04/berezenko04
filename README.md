@@ -1,5 +1,13 @@
 <h1 align="center">Hi there, I'm Roman
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+![](https://komarev.com/ghpvc/?username=berezenko04)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front+End+Developer)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berezenko04)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berezenko04)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1>🛠️Languages and tools: </h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -10,13 +18,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<br>
-<br>
-
-![](https://komarev.com/ghpvc/?username=berezenko04)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front+End+Developer)](https://git.io/typing-svg)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berezenko04)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berezenko04)](https://github.com/anuraghazra/github-readme-stats)
 
