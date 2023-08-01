@@ -8,8 +8,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berezenko04)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berezenko04)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>🛠️Languages and tools: </h1>
+
 <div>
+  <h1>🛠️Languages and tools: </h1>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
