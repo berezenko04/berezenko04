@@ -21,7 +21,7 @@ const roman = {
         notIdealBackEnd: {
             js: ["Node", "Express"],
         },
-        frontEnd:[
+        frontEnd: [
             'HTML', 'CSS', 'SASS', 'React', 
             'Redux Tookit', 'some Next.js',     
         ],
