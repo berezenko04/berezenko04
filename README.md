@@ -20,18 +20,18 @@ romanberezenko8@gmail.com
 ```javascript
 const roman = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "TypeScript", "some C#", "some PHP"],
+    code: ["Javascript", "TypeScript", "some PHP"],
     askMeAbout: ["Web Dev", "App dev"],
     technologies: {
-        notIdealBackEnd: {
+        backEnd: {
             js: ["Node", "Express"],
         },
         frontEnd: [
-            'HTML', 'CSS', 'SASS', 'React', 
-            'Redux Tookit', 'some Next.js',     
+            "HTML", "CSS", "SASS", "React", 
+            "Redux Tookit", "MUI", "some Next.js"     
         ],
-        databases: ["MongoDB", "MySQL"],
-        misc: ['WordPress']
+        databases: ["MongoDB", "MySQL", "MSSQL"],
+        misc: ["WordPress"]
     },
     architecture: ["SSR", "SPA"],
     currentFocus: "No Focus point at this time",
