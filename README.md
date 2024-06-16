@@ -42,5 +42,5 @@ const roman = {
 
 ---
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=berezenko04&show_icons=true&theme=synthwave)
+![My stats](https://github-readme-stats.vercel.app/api?username=berezenko04&show_icons=true&theme=synthwave)
 
