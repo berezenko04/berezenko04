@@ -13,19 +13,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/berezenko04?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=berezenko04)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻 About me</h3>
 
 ###
 
-### 📫 Contact
+<p align="left">I am a Full Stack developer. My path to IT began with taking an intensive course, where I learned HTML, CSS + JS. After the intensive there was a gap of a couple of months, where I tried myself in many directions, tried to learn the C# language, Python, tried my hand at Data Science, but most of all I was hooked on Frontend development! 
+Six months later, I became interested in Backend development and studied Node.js and Express. Having also studied both relational and non-relational databases: MySQL, MSSQL, MongoDB.</p>
 
-romanberezenko8@gmail.com
+###
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
