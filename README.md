@@ -6,6 +6,10 @@
 
 ###
 
+<h1 align="center">Hi👋 my name is Roman</h1>
+
+###
+
 ![GitHub followers](https://img.shields.io/github/followers/berezenko04?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=berezenko04)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
