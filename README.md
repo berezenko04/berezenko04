@@ -25,7 +25,7 @@ Six months later, I became interested in Backend development and studied Node.js
 
 ###
 
-<h3 align="left">🛠 Stack:</h3>
+<h3 align="left">🛠 Front-End:</h3>
 
 ###
 
@@ -38,15 +38,12 @@ Six months later, I became interested in Backend development and studied Node.js
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
 ###
