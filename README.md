@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About me</h3>
+<h3 align="left">👩‍💻 About me:</h3>
 
 ###
 
@@ -25,7 +25,7 @@ Six months later, I became interested in Backend development and studied Node.js
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Stack:</h3>
 
 ###
 
