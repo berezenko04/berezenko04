@@ -13,6 +13,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/berezenko04?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=berezenko04)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
 
 ### 📫 Contact
 
