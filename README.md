@@ -17,14 +17,13 @@
 ###
 
 <h3 align="left">👩‍💻 About me:</h3>
-
 ###
 
 <p align="left">I am a Full Stack developer. My path to IT began with taking an intensive course, where I learned HTML, CSS + JS. After the intensive there was a gap of a couple of months, where I tried myself in many directions, tried to learn the C# language, Python, tried my hand at Data Science, but most of all I was hooked on Frontend development! 
 Six months later, I became interested in Backend development and studied Node.js and Express. Having also studied both relational and non-relational databases: MySQL, MSSQL, MongoDB.</p>
+<hr style="height: 5px; border: none; background-color: #000;" />
 
 ###
-
 <h3 align="left">🔧 Front-End:</h3>
 
 ###
@@ -52,6 +51,7 @@ Six months later, I became interested in Backend development and studied Node.js
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
+<hr style="height: 5px; border: none; background-color: #000;" />
 
 ###
 
@@ -70,6 +70,7 @@ Six months later, I became interested in Backend development and studied Node.js
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
+<hr style="height: 5px; border: none; background-color: #000;" />
 
 ###
 
@@ -102,6 +103,7 @@ Six months later, I became interested in Backend development and studied Node.js
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
 </div>
+<hr style="height: 5px; border: none; background-color: #000;" />
 
 ###
 
