@@ -111,5 +111,11 @@ Six months later, I became interested in Backend development and studied Node.js
 
 ###
 
+<h3 align="left">📊 My stats:</h3>
+
+###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berezenko04&layout=compact)
+
 
 
