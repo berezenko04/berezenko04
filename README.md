@@ -7,13 +7,14 @@
 ###
 
 <h1 align="center">Hi👋 my name is Roman</h1>
-<hr style="height: 5px; border: none; background-color: #000;" />
 
 ###
 
 ![GitHub followers](https://img.shields.io/github/followers/berezenko04?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=berezenko04)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
+<hr style="height: 4px; border: none; background-color: #000;" />
 
 ###
 
@@ -23,7 +24,7 @@
 
 <p align="left">I am a Full Stack developer. My path to IT began with taking an intensive course, where I learned HTML, CSS + JS. After the intensive there was a gap of a couple of months, where I tried myself in many directions, tried to learn the C# language, Python, tried my hand at Data Science, but most of all I was hooked on Frontend development! 
 Six months later, I became interested in Backend development and studied Node.js and Express. Having also studied both relational and non-relational databases: MySQL, MSSQL, MongoDB.</p>
-<hr style="height: 5px; border: none; background-color: #000;" />
+<hr style="height: 4px; border: none; background-color: #000;" />
 
 ###
 
@@ -54,7 +55,7 @@ Six months later, I became interested in Backend development and studied Node.js
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
-<hr style="height: 5px; border: none; background-color: #000;" />
+<hr style="height: 4px; border: none; background-color: #000;" />
 
 ###
 
@@ -62,7 +63,7 @@ Six months later, I became interested in Backend development and studied Node.js
 
 ###
 
-<div align="left" style="display: flex; align-items:center; gap: 12px;">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -73,7 +74,7 @@ Six months later, I became interested in Backend development and studied Node.js
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
-<hr style="height: 5px; border: none; background-color: #000;" />
+<hr style="height: 4px; border: none; background-color: #000;" />
 
 ###
 
@@ -81,7 +82,7 @@ Six months later, I became interested in Backend development and studied Node.js
 
 ###
 
-<div align="left" style="display: flex; align-items:center; gap: 12px;">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
@@ -106,7 +107,7 @@ Six months later, I became interested in Backend development and studied Node.js
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
 </div>
-<hr style="height: 5px; border: none; background-color: #000;" />
+<hr style="height: 4px; border: none; background-color: #000;" />
 
 ###
 
