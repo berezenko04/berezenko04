@@ -64,6 +64,8 @@ Six months later, I became interested in Backend development and studied Node.js
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12px"/>
+  <img src="https://socket.io/images/logo-dark.svg" height="40" alt="socket.io logo"  />
+  <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
