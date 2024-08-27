@@ -116,7 +116,10 @@ Six months later, I became interested in Backend development and studied Node.js
 ###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berezenko04&layout=compact)
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/luxurypluxury_)   
+
+###
+
+![My Codewars Profile Badge](https://www.codewars.com/users/luxurypluxury_/badges/large) 
 
 
 
