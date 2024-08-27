@@ -7,6 +7,7 @@
 ###
 
 <h1 align="center">Hi👋 my name is Roman</h1>
+<hr style="height: 5px; border: none; background-color: #000;" />
 
 ###
 
@@ -17,6 +18,7 @@
 ###
 
 <h3 align="left">👩‍💻 About me:</h3>
+
 ###
 
 <p align="left">I am a Full Stack developer. My path to IT began with taking an intensive course, where I learned HTML, CSS + JS. After the intensive there was a gap of a couple of months, where I tried myself in many directions, tried to learn the C# language, Python, tried my hand at Data Science, but most of all I was hooked on Frontend development! 
@@ -24,6 +26,7 @@ Six months later, I became interested in Backend development and studied Node.js
 <hr style="height: 5px; border: none; background-color: #000;" />
 
 ###
+
 <h3 align="left">🔧 Front-End:</h3>
 
 ###
