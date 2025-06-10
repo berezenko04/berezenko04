@@ -93,19 +93,9 @@ Six months later, I became interested in Backend development and studied Node.js
   <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
-  <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12px"/>
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
 </div>
 <hr style="height: 4px; border: none; background-color: #000;" />
 
