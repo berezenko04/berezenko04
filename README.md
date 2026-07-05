@@ -1,115 +1,28 @@
-<br clear="both">
+# Roman Berezenko
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d1c7b36-d6f8-476f-8003-2dc3e34f78c3" alt="vibe coding" />
-</p>
+Full-stack developer based in London, UK. I build web apps end to end — React and TypeScript on the frontend, NestJS and PostgreSQL behind it.
 
-###
+Currently **open to work** (full-time). Previously: 2 years building internal products (CRM, accounting, customer portals) at Yavir-2000, and client websites at Frorex Agency before that.
 
-<h1 align="center">Hi👋 my name is Roman</h1>
+## Pet Projects
 
-###
+| Project | Description | Stack | Links |
+| --- | --- | --- | --- |
+| **Sandrela** | The full-featured wedding fashion e-commerce platform. It includes a product catalog, shopping cart, order management, Stripe payments, user dashboard, wishlist, reviews, and more. | React, NestJS, TypeScript, PostgreSQL, React Query, MUI | [Live](https://sandrela.xyz) · [Code](https://github.com/berezenko04/wedding-shop) |
+| **Animenia** | The full-featured anime platform for watching and discussing movies. It includes a catalog with advanced filters, a comments system, likes and ratings with personalized recommendations, multi-session auth, password reset via email, dark theme, and a fully responsive design. | React, NestJS, TypeScript, PostgreSQL, Redux Toolkit, MUI | [Live](https://animenia.xyz) · [Code](https://github.com/berezenko04/animenia) |
 
-![GitHub followers](https://img.shields.io/github/followers/berezenko04?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=berezenko04)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+## Stack
 
-<hr style="height: 4px; border: none; background-color: #000;" />
+**Frontend:** React, Next.js, TypeScript, Redux Toolkit, React Query, Material UI, SCSS
+#
+**Backend:** NestJS, Node.js, REST APIs, PostgreSQL, MySQL, Prisma
+#
+**Tools:** Git, Docker, Figma, Postman
 
-###
+## Contact
 
-<h3 align="left">👩‍💻 About me:</h3>
+[Portfolio](https://romanberezenko.vercel.app/) · [LinkedIn](https://linkedin.com/in/romanberezenko) · koffld@yahoo.com
 
-###
+---
 
-<p align="left">I am a Full Stack developer. My path to IT began with taking an intensive course, where I learned HTML, CSS + JS. After the intensive there was a gap of a couple of months, where I tried myself in many directions, tried to learn the C# language, Python, tried my hand at Data Science, but most of all I was hooked on Frontend development! 
-Six months later, I became interested in Backend development and studied Node.js and Express. Having also studied both relational and non-relational databases: MySQL, MSSQL, MongoDB.</p>
-<hr style="height: 4px; border: none; background-color: #000;" />
-
-###
-
-<h3 align="left">🔧 Front-End:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
-  <img width="12px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-</div>
-<hr style="height: 4px; border: none; background-color: #000;" />
-
-###
-
-<h3 align="left">🛠 Back-End:</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12px"/>
-  <img src="https://socket.io/images/logo-dark.svg" height="40" alt="socket.io logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-<hr style="height: 4px; border: none; background-color: #000;" />
-
-###
-
-<h3 align="left">⚙️ Utils:</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12px"/>
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
-</div>
-<hr style="height: 4px; border: none; background-color: #000;" />
-
-###
-
-<h3 align="left">📊 My stats:</h3>
-
-###
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berezenko04&layout=compact)
-
-###
-
-![My Codewars Profile Badge](https://www.codewars.com/users/luxurypluxury_/badges/large) 
-
-
-
+Won an [Orpetron Web Design Award](https://orpetron.com/sites/frorex-product-design-agency/) in 2024. BSc in Computer Science, Poltava University of Economics and Trade.
